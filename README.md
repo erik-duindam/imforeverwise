@@ -11,9 +11,9 @@ I chose Java for these algorithms, because it allows me to choose my data struct
 while the code should be readable to most programmers. Additionally, since performance is a factor here,
 a lower level language makes it easier to illustrate actual performance impact.
 
-Please refer to src/Anagrams.java for my complete comments. You could run the Junit tests
+Please refer to `src/Anagrams.java` for my complete comments. You could run the Junit tests
 with IntelliJ IDEA, Eclipse or plain JUnit 4. The tests with a real dictionary run in 250ms on my MacBook.
-Alternatively, you could run `java Anagrams` after compiling with `javac Anagrams`.
+Alternatively, you could compile the project and run `Anagrams.java`.
 
 ### 2. Merge meeting time slots
 To merge meeting time slots into combined tuples, I chose JavaScript for simplicity.
