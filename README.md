@@ -2,6 +2,7 @@
 
 ### 1. Find anagrams from a dictionary
 To find anagrams of a word by looking words up in a dictionary, I've built two solutions and described one more:
+
 1. HashMap solution; optimized for speed
 2. Trie solution; optimized for memory
 3. Cassandra solution; scalable till billions of words
