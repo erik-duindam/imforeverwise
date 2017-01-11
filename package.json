@@ -1,0 +1,26 @@
+{
+  "name": "imforeverwise",
+  "version": "1.0.0",
+  "description": "Secret",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erik-duindam/imforeverwise.git"
+  },
+  "author": "Erik Duindam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erik-duindam/imforeverwise/issues"
+  },
+  "homepage": "https://github.com/erik-duindam/imforeverwise#readme",
+  "dependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0"
+  }
+}
