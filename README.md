@@ -8,11 +8,11 @@ To find anagrams of a word by looking words up in a dictionary, I've built two s
 3. Cassandra solution; scalable till billions of words
 
 I chose Java for these algorithms, because it allows me to choose my data structures specifically,
-while being very readable to most programmers. Additionally, since performance is a factor here,
+while the code should be readable to most programmers. Additionally, since performance is a factor here,
 a lower level language makes it easier to illustrate actual performance impact.
 
 Please refer to src/Anagrams.java for my complete comments. You could run the Junit tests
-with IntelliJ IDEA, Eclipse or plain JUnit 4. The tests with a real dictionary run in 250ms.
+with IntelliJ IDEA, Eclipse or plain JUnit 4. The tests with a real dictionary run in 250ms on my MacBook.
 Alternatively, you could run `java Anagrams` after compiling with `javac Anagrams`.
 
 ### 2. Merge meeting time slots
