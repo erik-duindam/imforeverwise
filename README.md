@@ -5,7 +5,7 @@ To find anagrams of a word by looking words up in a dictionary, I've built two s
 
 1. HashMap solution; optimized for speed
 2. Trie solution; optimized for memory
-3. Cassandra solution; scalable till billions of words
+3. Cassandra solution (described); scalable to potentially billions of words
 
 I chose Java for these algorithms, because it allows me to choose my data structures specifically,
 while the code should be readable to most programmers. Additionally, since performance is a factor here,
